@@ -6,12 +6,12 @@ Github repo for Chisel Decor blockpacks.
 * [Classic](https://github.com/KnowYourKnot/Blockpacks/releases/download/v1.0.0/classic.zip)
 
 ## How to install
-1. Run Minecraft with [Chisel Decor]() installed to generate the necessary config folders and files.
-2. Download the ZIP file for the desired blockpack.
-3. Remove the blockpack folder from within the ZIP file.
-4. Place the blockpack folder in the `config/chiseldecor` directory.
-5. Edit the `config/chiseldecor/config.json` file. The entry `block_packs` should be a comma separated list of the names of the blockpacks you want to load.
-6. Open Minecraft. Your blockpacks should have been loaded!
+1. Run Minecraft with [Chisel Decor](https://github.com/KnowYourKnot/ChiselDecor/releases) installed to generate the necessary config folders and files.
+2. Download the ZIP file for the desired blockpack and extract.
+3. Place the blockpack's folder in the `config/chiseldecor` directory.
+4. Edit the `config/chiseldecor/config.json` file. The entry `block_packs` should be a comma separated list of the names of the  blockpacks you want to load. A list should look like "cool, red".
+5. Open Minecraft. Your blockpack(s) should have been loaded!
+
 
 ## Attribution
 The images in the directories
