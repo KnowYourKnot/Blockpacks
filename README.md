@@ -1,13 +1,5 @@
-![image](https://user-images.githubusercontent.com/70713233/120683071-0b3f6b00-c452-11eb-86ae-f245656d70a1.png)
-
-# Blockpacks
-Github repo for Chisel Decor blockpacks.
-
+![malg](https://user-images.githubusercontent.com/70713233/120702380-ddb1ec00-c468-11eb-979e-a87460b16ec8.png)
 ## Blockpack Download Links
-
-
-
-
 * [Malg](https://github.com/3prm3-Org/Blockpacks/releases) (A mix of all my blockpacks/ only maintained blockpack)
 * [Older Versions/Other Blockpacks](https://github.com/3prm3/Blockpacks)
 
@@ -20,9 +12,3 @@ Github repo for Chisel Decor blockpacks.
 6. Open Minecraft. Your blockpack(s) should have been loaded!
 ## How to make blockpacks for Chisel Decor v1.1.3 for 1.16.5
 https://github.com/KnowYourKnot/ChiselDecor/issues/4#issuecomment-788125673
-
-
-
-
-
-
