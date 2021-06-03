@@ -38,7 +38,7 @@
 "block.chiseldecor.malg.stone.smooth_basalt": "Smooth Basalt",
 "block.chiseldecor.malg.stone.weathered_copper": "Weathered Copper",
 "block.chiseldecor.malg.stone.weathered_cut_copper": "Weathered Cut Copper",
-"block.chiseldecor.malg.glass.tinted_glass": "Tinted Glass"
+"block.chiseldecor.malg.glass.tinted_glass": "Tinted Glass",
 "block.chiseldecor.malg.wool.what": "Block of Unknown",
 "block.chiseldecor.malg.stone.wax": "Wax Block",
 "block.chiseldecor.malg.stone.grimstone": "Grimstone",
@@ -58,8 +58,8 @@
 "block.chiseldecor.malg.oak_planks.red": "Red Oak Planks",
 "block.chiseldecor.malg.oak_planks.white": "White Oak Planks",
 "block.chiseldecor.malg.oak_planks.yellow": "Yellow Oak Planks"
-"block.chiseldecor.malg.sandstone-scribbles.draw1": "Sandstone Scribble 1"
-"block.chiseldecor.malg.sandstone-scribbles.draw2": "Sandstone Scribble 2"
+"block.chiseldecor.malg.sandstone-scribbles.draw1": "Sandstone Scribble 1",
+"block.chiseldecor.malg.sandstone-scribbles.draw2": "Sandstone Scribble 2",
 "block.chiseldecor.malg.stone.tuff": "Tuff Block",
 "block.chiseldecor.malg.stone.calcite": "Calcite Block",
 "block.chiseldecor.malg.stone.blackpolished_granite": "Black Polished Granite",
@@ -81,7 +81,7 @@
 "block.chiseldecor.malg.stone.ncoal_ore": "New Coal Ore",
 "block.chiseldecor.malg.stone.deepslate_emerald_ore": "Deepslate Emerald Ore",
 "block.chiseldecor.malg.stone.deepslate_copper_ore": "Deepslate Copper Ore",
-"block.chiseldecor.malg.stone.cracked_deepslate_bricks": "Cracked Deepslate Bricks"
+"block.chiseldecor.malg.stone.cracked_deepslate_bricks": "Cracked Deepslate Bricks",
 "block.chiseldecor.malg.wool.azalea_leaves": "Azalea Leaves",
 "block.chiseldecor.malg.wool.azalea_leaves_flowers": "Flowering Azalea Leaves",
 }
