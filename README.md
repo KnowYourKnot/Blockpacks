@@ -6,10 +6,10 @@ Github repo for Chisel Decor blockpacks.
 ## Blockpack Download Links
 
 
-* [Alpha Blocks/ Alpha Wool](https://github.com/3prm3/Blockpacks/releases/download/ab1.0.0/alphablocks.zip)
-* [Uport](https://github.com/3prm3/Blockpacks/releases/download/up1.0/uport.zip)
-* [Unused Blocks](https://github.com/3prm3/Blockpacks/releases/download/v.1.0.0/unused.zip)
+
+
 * [Malg](https://github.com/3prm3/Blockpacks/files/6135888/malg.zip) (A mix of all my blockpacks)
+* [Older Versions/Other Blockpacks](https://github.com/3prm3/Blockpacks)
 
 ## How to install
 1. Run Minecraft with [Chisel Decor](https://github.com/KnowYourKnot/ChiselDecor/releases) installed to generate the necessary config folders and files.
