@@ -20,15 +20,7 @@ Github repo for Chisel Decor blockpacks.
 6. Open Minecraft. Your blockpack(s) should have been loaded!
 ## How to make blockpacks for Chisel Decor v1.1.3 for 1.16.5
 https://github.com/KnowYourKnot/ChiselDecor/issues/4#issuecomment-788125673
-## Attribution
-The images in the directories
 
-* `alphablocks\textures\wool`
-were made by  "Notch" Markus Perrson and are under an unknown licence.
-
-* `uport\textures\stone`
-* `uport\textures\glass`
-were made by  "Jappa" Jasper Boerstra and are under an unknown licence.
 
 
 
