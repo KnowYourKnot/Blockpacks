@@ -8,7 +8,7 @@ Github repo for Chisel Decor blockpacks.
 
 
 
-* [Malg](https://github.com/3prm3/Blockpacks/files/6135888/malg.zip) (A mix of all my blockpacks)
+* [Malg](https://github.com/3prm3-Org/Blockpacks/releases) (A mix of all my blockpacks/ only maintained blockpack)
 * [Older Versions/Other Blockpacks](https://github.com/3prm3/Blockpacks)
 
 ## How to install
