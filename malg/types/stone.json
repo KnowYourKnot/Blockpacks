@@ -60,7 +60,8 @@
 		  "deepslate_emerald_ore",
 		  "deepslate_copper_ore",
 		  "deepslate_coal_ore",
-		  "cracked_deepslate_bricks"
+		  "cracked_deepslate_bricks",
+		   "bricks"
         ],
         "transparent": false
       }

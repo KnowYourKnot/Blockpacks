@@ -29,9 +29,7 @@
 		  "red",
 		  "white",
 		  "yellow",
-          "yew_planks",		  
-          "yew_log-side",
-		  "yew_log-top"
+          "oak"		  
         ],
 	  "transparent": false
       }
