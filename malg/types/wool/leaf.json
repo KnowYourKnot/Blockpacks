@@ -4,16 +4,16 @@
     "imitate": "minecraft:white_wool"
   },
   "items_to_include": [
-    "minecraft:red_wool"
+    "minecraft:white_wool"
   ],
   "tags_to_include": [
-    "c:red_wool"
+    "c:white_wool"
   ],
   "variants": {
     "new": [
       {
         "names": [
-          "rolling"
+          "leaf"
         ],
         "transparent": false
       }
